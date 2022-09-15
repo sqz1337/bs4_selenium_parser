@@ -1,1 +1,3 @@
-# bs4_selenium_parser
+# HTML parser 
+
+Parser via BeautifulSoup4 using ChromeDriver + Selenium framework
